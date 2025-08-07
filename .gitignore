@@ -1,0 +1,17 @@
+dist
+dist-ssr
+
+# Node
+node_modules/
+.env
+*.log
+dist/
+
+# Vite
+.vite/
+# Editor
+.vscode/
+.idea/
+.DS_Store
+*.swp
+!.vscode/extensions.json
